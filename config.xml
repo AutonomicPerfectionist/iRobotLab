@@ -19,6 +19,6 @@
 
   <!-- Preferences -->
 
-  <preference name="phonegap-version" value="cli-6.4.0" />
+  <preference name="phonegap-version" value="cli-6.0.0" />
 
 </widget>
